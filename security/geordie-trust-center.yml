@@ -1,0 +1,42 @@
+generated: '2026-07-19'
+method: searched
+probe: true
+source: https://trust.geordie.ai/
+url: https://trust.geordie.ai/
+certifications:
+- SOC 2 Type II
+- SOC 3
+- ISO/IEC 27001:2022
+- GDPR
+risk_profile:
+  data_access_level: Restricted
+  impact_level: Substantial
+  critical_dependence: false
+subprocessors:
+- Auth0
+- HubSpot
+- Amazon Web Services (AWS)
+controls:
+- audit logging
+- data security
+- multi-factor authentication
+- penetration testing
+- data flow diagrams
+- access monitoring
+- code analysis
+- BC/DR policy
+- change management policy
+- acceptable use policy
+evidence:
+- source: https://trust.geordie.ai/
+  keywords:
+  - soc 2
+  - iso/iec 27001
+  - trust center
+  - gdpr
+- source: https://www.geordie.ai/
+  keywords:
+  - soc 2 type ii
+  - soc 3
+  - iso/iec 27001
+  - gdpr compliant

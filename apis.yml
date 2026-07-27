@@ -1,9 +1,32 @@
 aid: geordie
-name: geordie
-description: geordie is a company surfaced as a portfolio company of balderton-capital, general-catalyst
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+name: Geordie AI
+description: >-
+  Geordie AI is an enterprise AI governance platform that gives organizations
+  visibility into and control over the autonomous AI agents deployed across their
+  environments. It discovers agents across code, cloud, endpoints, and SaaS;
+  maps each agent's posture (permissions, tools, MCP connections, and system
+  prompts); provides behavioral observability with continuous audit trails and
+  anomaly detection; delivers risk intelligence mapped to standards such as OWASP,
+  NIST, ISO 42001, and the EU AI Act; and offers Beam, a real-time remediation
+  layer that applies deterministic controls at the agent level. Geordie raised a
+  $30M Series A and is used by enterprises including Xapo Bank, Fitch Group,
+  Synthesia, AlphaSense, Owkin, OakNorth, and A+E Global Media. The company is
+  SOC 2, ISO/IEC 27001:2022, and GDPR compliant. This profile was surfaced as a
+  portfolio company of Balderton Capital and General Catalyst and enriched by the
+  API Evangelist pipeline; Geordie publishes no public developer API.
 url: https://raw.githubusercontent.com/api-evangelist/geordie/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.geordie.ai/images/geordie-og-image.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -13,9 +36,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- AI Governance
+- AI Agents
+- Agentic AI
+- AI Security
+- Observability
+- Compliance
+- Enterprise Security
+- MCP
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +54,30 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: TrustCenter
+  url: security/geordie-trust-center.yml
+- type: Compliance
+  url: https://trust.geordie.ai/
+- type: DomainSecurity
+  url: security/geordie-domain-security.yml
 - type: Website
   url: https://www.geordie.ai/
+- type: Documentation
+  url: https://docs.geordie.ai/
+- type: Blog
+  url: https://www.geordie.ai/resources
+- type: StatusPage
+  url: https://status.geordie.ai/
+- type: Login
+  url: https://app.eu.geordie.ai/instance
+- type: SignUp
+  url: https://www.geordie.ai/book-a-demo
+- type: TermsOfService
+  url: https://www.geordie.ai/legals/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.geordie.ai/legals/privacy-policy
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
