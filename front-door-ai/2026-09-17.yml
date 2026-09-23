@@ -1,0 +1,32 @@
+# Front Door AI Index — geordie — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: geordie
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.geordie.ai
+  final_host: www.geordie.ai
+  ownership: own
+  owner: geordie
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 102
+  host_score: 102
+  density: 38.48
+  words: 2651
+  tiers:
+    agentic: 50
+    core: 52
+    model: 0
+  ambiguous: 59
+  top_terms:
+    AI: 52
+    agent: 49
+    agentic: 30
+    intelligence: 10
+    MCP: 8
+    AI agent: 7
+    prompts: 3
+    autonomous agent: 2
