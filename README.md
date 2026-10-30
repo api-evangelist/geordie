@@ -1,4 +1,4 @@
-# geordie
+# Geordie AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,87 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-geordie is a company surfaced as a portfolio company of balderton-capital, general-catalyst and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Geordie AI is an enterprise AI governance platform that gives organizations visibility into and control over the autonomous AI agents deployed across their environments. It discovers agents across code, cloud, endpoints, and SaaS; maps each agent's posture (permissions, tools, MCP connections, and system prompts); provides behavioral observability with continuous audit trails and anomaly detection; delivers risk intelligence mapped to standards such as OWASP, NIST, ISO 42001, and the EU AI Act; and offers Beam, a real-time remediation layer that applies deterministic controls at the agent level. Geordie raised a $30M Series A and is used by enterprises including Xapo Bank, Fitch Group, Synthesia, AlphaSense, Owkin, OakNorth, and A+E Global Media. The company is SOC 2, ISO/IEC 27001:2022, and GDPR compliant. This profile was surfaced as a portfolio company of Balderton Capital and General Catalyst and enriched by the API Evangelist pipeline; Geordie publishes no public developer API.
 
-Backed by: balderton-capital, general-catalyst — https://www.geordie.ai/
+**Areas:** Company · AI Governance · AI Agents · AI Security · Observability · Compliance · Enterprise Security · MCP
+
+## Geordie AI on APIs.io
+
+Everything profiled for Geordie AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/geordie/](https://apis.io/providers/geordie/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Geordie Domain Security](https://apis.io/security/geordie/geordie-domain-security/)
+- [Geordie Trust Center](https://apis.io/security/geordie/geordie-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.geordie.ai/)
+- [Documentation](https://docs.geordie.ai/)
+- [Sign up](https://www.geordie.ai/book-a-demo)
+- [Blog](https://www.geordie.ai/resources)
+- [Compliance](https://trust.geordie.ai/)
+- [Terms of service](https://www.geordie.ai/legals/terms-of-use)
+- [Privacy policy](https://www.geordie.ai/legals/privacy-policy)
+- [Status](https://status.geordie.ai/)
+
+## API Evangelist rating
+
+**Kin Score 17.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 50.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/geordie/](https://apis.io/providers/geordie/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Geordie AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/geordie/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
